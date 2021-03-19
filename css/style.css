@@ -1,0 +1,25 @@
+#parallaxOne {
+    background-image: url(img/marketrolly.jpg);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    height: 700px;
+
+    background-attachment: fixed;
+}
+#parallaxTwo {
+    background-image: url(img/ggbridge.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 650px;
+
+    background-attachment: fixed;
+}
+
+#parallaxTwo section {
+    background-color: rgba(0,0,0, 0.6);
+}
+button.btn {
+    font-size: 0.5rem;
+}
